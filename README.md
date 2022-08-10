@@ -1,13 +1,13 @@
-## Hi i'm Flustix (or flux or floofball)
-i make code but also ui design and art stuff
+<h1 align="center">
+  Hi i'm Flustix (or flux or floofball)
+</h1>
+<h3 align="center">
+  i make code but also ui design and art stuff
+</h3>
 
-i'm also the lead developer of [fluXis](../TeamFluXis/fluXis.Client)
-
-heres the list of coding languages i use: 
-- Haxe
-- Java
-- HTML (not really a coding lang i know)
-- also a bit of TypeScript
-
-###### no i'm btw not a furry
-
+<h3 align="center">
+  Here's some stats:
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=flustix&theme=github_dark&show_icons=true&hide=prs,issues&hide_border=true&border_radius=15"/>  
+</h3>
