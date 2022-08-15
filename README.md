@@ -10,5 +10,5 @@
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=flustix&theme=github_dark&show_icons=true&hide=prs,issues&hide_border=true&border_radius=15"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flustix&cache_seconds=7777&layout=compact&bg_color=00000000&hide_border=true&card_width=240"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flustix&cache_seconds=7777&layout=compact&bg_color=0d1117FF&hide_border=true&card_width=240&border_radius=15"/>
 </h3>
